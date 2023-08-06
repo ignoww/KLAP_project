@@ -1,4 +1,4 @@
-# PODIA-3D Homepage
+# KLAP project page
 
 
 # Website License
